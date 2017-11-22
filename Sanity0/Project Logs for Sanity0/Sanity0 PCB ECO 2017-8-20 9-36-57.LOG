@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=L2-N
+Removed Pin From Net: NetName=GND Pin=L3-N
+Added Component: Designator=R22(Res-0402)
+Added Component: Designator=R23(Res-0402)
+Added Pin To Net: NetName=GND Pin=R22-1
+Added Pin To Net: NetName=GND Pin=R23-1
+Added Pin To Net: NetName=NetL2_N Pin=L2-N
+Added Pin To Net: NetName=NetL2_N Pin=R22-0
+Added Net: Name=NetL2_N
+Added Pin To Net: NetName=NetL3_N Pin=L3-N
+Added Pin To Net: NetName=NetL3_N Pin=R23-0
+Added Net: Name=NetL3_N
+Added Member To Class: ClassName=Sanity0 Member=Component R22 Res-0402
+Added Member To Class: ClassName=Sanity0 Member=Component R23 Res-0402
+Added Room: Name=Sanity0

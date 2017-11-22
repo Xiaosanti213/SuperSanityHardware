@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=CPU_RX Pin=U2-30
+Removed Pin From Net: NetName=CPU_RX Pin=U2-31
+Change Net Name : Old Net Name=CPU_RX New Net Name=3V3
+Added Pin To Net: NetName=CPU_RX Pin=U2-31
+Added Pin To Net: NetName=CPU_RX Pin=U3-2
+Added Net: Name=CPU_RX
+Added Pin To Net: NetName=CPU_TX Pin=U2-30
+Added Pin To Net: NetName=CPU_TX Pin=U3-3
+Added Net: Name=CPU_TX
+Added Room: Name=Tele

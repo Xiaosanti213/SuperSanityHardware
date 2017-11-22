@@ -1,0 +1,8 @@
+Remove Pin=P4-2 From Net=RT
+Remove Pin=P4-5 From Net=RA
+Remove Pin=P5-2 From Net=LE
+Remove Pin=P5-5 From Net=LR
+Add Pin To Net: Pin=P4-2 Old Net=RT New Net=LE
+Add Pin To Net: Pin=P4-5 Old Net=RA New Net=LR
+Add Pin To Net: Pin=P5-2 Old Net=LE New Net=RT
+Add Pin To Net: Pin=P5-5 Old Net=LR New Net=RA

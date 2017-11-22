@@ -1,0 +1,149 @@
+Change Component Parameter Comment in C1 Old= New=Cap-0402
+Change Component Parameter Comment in C2 Old= New=Cap-0402
+Change Component Parameter Comment in C3 Old= New=Cap-0402
+Change Component Parameter Comment in C4 Old= New=Cap-0402
+Change Component Parameter Comment in C5 Old= New=Cap-0402
+Change Component Parameter Comment in C6 Old= New=Cap-0402
+Change Component Parameter Comment in C7 Old= New=Cap-0402
+Change Component Parameter Comment in C8 Old= New=22pF
+Change Component Parameter Comment in C9 Old= New=Cap-0402
+Change Component Parameter Comment in C10 Old= New=Cap-0402
+Change Component Parameter Comment in C11 Old= New=Cap-0402
+Change Component Parameter Comment in C12 Old= New=Cap-0402
+Change Component Parameter Comment in C13 Old= New=Cap-0402
+Change Component Parameter Comment in C14 Old= New=Cap-0402
+Change Component Parameter Comment in C15 Old= New=Cap-0402
+Change Component Parameter Comment in C16 Old= New=Cap-0402
+Change Component Parameter Comment in C17 Old= New=22pF
+Change Component Parameter Comment in C18 Old= New=22pF
+Change Component Parameter Comment in C19 Old= New=22pF
+Change Component Parameter Comment in C20 Old= New=Cap-0402
+Change Component Parameter Comment in C21 Old= New=Cap-0402
+Change Component Parameter Comment in C22 Old= New=22pF
+Change Component Parameter Comment in C23 Old= New=22pF
+Change Component Parameter Comment in C24 Old= New=22pF
+Change Component Parameter Comment in C25 Old= New=Cap-0402
+Change Component Parameter Comment in C26 Old= New=Cap-0402
+Change Component Parameter Comment in C27 Old= New=Cap-0402
+Change Component Parameter Comment in C28 Old= New=22pF
+Change Value of Parameter Value in Part L1 Old=10uH New=10mH
+Change Component Parameter Comment in P1 Old= New=Header 2
+Change Component Parameter Comment in P3 Old= New=Header 10X2
+Change Component Parameter Comment in P4 Old= New=Header 3X2
+Change Component Parameter Comment in P5 Old= New=Header 2
+Change Component Parameter Comment in P6 Old= New=Header 2
+Change Component Parameter Comment in P7 Old= New=Header 2
+Change Component Parameter Comment in P8 Old= New=TFCard
+Change Component Parameter Comment in P9 Old= New=Header 2
+Change Component Parameter Comment in P10 Old= New=Header 4X2
+Change Component Parameter Comment in P14 Old= New=Header 2
+Change Component Parameter Comment in R1 Old= New=Res-0402
+Change Component Parameter Comment in R2 Old= New=Res-0402
+Change Component Parameter Comment in R3 Old= New=Res-0402
+Change Component Parameter Comment in R4 Old= New=Res-0402
+Change Component Parameter Comment in R5 Old= New=Res-0402
+Change Component Parameter Comment in R6 Old= New=Res-0402
+Change Component Parameter Comment in R7 Old= New=Res-0402
+Change Component Parameter Comment in R8 Old= New=Res-0402
+Change Component Parameter Comment in R9 Old= New=Res-0402
+Change Component Parameter Comment in R10 Old= New=Res-0402
+Change Component Parameter Comment in R11 Old= New=Res-0402
+Change Component Parameter Comment in R12 Old= New=Res-0402
+Change Component Parameter Comment in R13 Old= New=Res-0402
+Change Component Parameter Comment in R14 Old= New=Res-0402
+Change Component Parameter Comment in R15 Old= New=Res-0402
+Change Component Parameter Comment in R16 Old= New=Res-0402
+Change Component Parameter Comment in R17 Old= New=Res-0402
+Change Component Parameter Comment in R18 Old= New=Res-0402
+Change Component Parameter Comment in R19 Old= New=Res-0402
+Change Component Parameter Comment in R20 Old= New=Res-0402
+Change Component Parameter Comment in R21 Old= New=Res-0402
+Change Component Parameter Comment in R22 Old= New=Res-0402
+Change Component Parameter Comment in R23 Old= New=Res-0402
+Change Component Parameter Comment in X1 Old= New=49SMD
+Change Component Parameter Comment in X2 Old= New=49SMD
+Replace Symbol from C1 Cap-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Cap-0402 from 0402.IntLib
+Replace Symbol from C2 Cap-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Cap-0402 from 0402.IntLib
+Replace Symbol from C3 Cap-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Cap-0402 from 0402.IntLib
+Replace Symbol from C4 Cap-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Cap-0402 from 0402.IntLib
+Replace Symbol from C5 Cap-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Cap-0402 from 0402.IntLib
+Replace Symbol from C6 Cap-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Cap-0402 from 0402.IntLib
+Replace Symbol from C7 Cap-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Cap-0402 from 0402.IntLib
+Replace Symbol from C8 Cap0603 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Cap0603 from Cap-0603.IntLib
+Replace Symbol from C9 Cap-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Cap-0402 from 0402.IntLib
+Replace Symbol from C10 Cap-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Cap-0402 from 0402.IntLib
+Replace Symbol from C11 Cap-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Cap-0402 from 0402.IntLib
+Replace Symbol from C12 Cap-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Cap-0402 from 0402.IntLib
+Replace Symbol from C13 Cap-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Cap-0402 from 0402.IntLib
+Replace Symbol from C14 Cap-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Cap-0402 from 0402.IntLib
+Replace Symbol from C15 Cap-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Cap-0402 from 0402.IntLib
+Replace Symbol from C16 Cap-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Cap-0402 from 0402.IntLib
+Replace Symbol from C17 Cap0603 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Cap0603 from Cap-0603.IntLib
+Replace Symbol from C18 Cap0603 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Cap0603 from Cap-0603.IntLib
+Replace Symbol from C19 Cap0603 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Cap0603 from Cap-0603.IntLib
+Replace Symbol from C20 Cap-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Cap-0402 from 0402.IntLib
+Replace Symbol from C21 Cap-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Cap-0402 from 0402.IntLib
+Replace Symbol from C22 Cap0603 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Cap0603 from Cap-0603.IntLib
+Replace Symbol from C23 Cap0603 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Cap0603 from Cap-0603.IntLib
+Replace Symbol from C24 Cap0603 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Cap0603 from Cap-0603.IntLib
+Replace Symbol from C25 Cap-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Cap-0402 from 0402.IntLib
+Replace Symbol from C26 Cap-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Cap-0402 from 0402.IntLib
+Replace Symbol from C27 Cap-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Cap-0402 from 0402.IntLib
+Replace Symbol from C28 Cap0603 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Cap0603 from Cap-0603.IntLib
+Replace Symbol from C29 Cap0603 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Cap0603 from Cap-0603.IntLib
+Replace Symbol from D1 D-Schottky MBR0520 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with D-Schottky MBR0520 from D-Schottky-MBR0520.IntLib
+Replace Symbol from L1 Inductor in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Inductor from Miscellaneous Devices.IntLib
+Replace Symbol from L2 LED in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with LED from LED_0603.IntLib
+Replace Symbol from L3 LED in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with LED from LED_0603.IntLib
+Replace Symbol from M1 SI2302-NMOS in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with SI2302-NMOS from SI2303-NMOS.IntLib
+Replace Symbol from M2 SI2302-NMOS in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with SI2302-NMOS from SI2303-NMOS.IntLib
+Replace Symbol from M3 SI2302-NMOS in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with SI2302-NMOS from SI2303-NMOS.IntLib
+Replace Symbol from M4 SI2302-NMOS in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with SI2302-NMOS from SI2303-NMOS.IntLib
+Replace Symbol from P1 Header 2 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Header 2 from Miscellaneous Connectors.IntLib
+Replace Symbol from P2 ResetKey_C5382 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with ResetKey_C5382 from ResetKey_C5382.IntLib
+Replace Symbol from P3 Header 10X2 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Header 10X2 from Miscellaneous Connectors.IntLib
+Replace Symbol from P4 Header 3X2 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Header 3X2 from Miscellaneous Connectors.IntLib
+Replace Symbol from P5 Header 2 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Header 2 from Miscellaneous Connectors.IntLib
+Replace Symbol from P6 Header 2 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Header 2 from Miscellaneous Connectors.IntLib
+Replace Symbol from P7 Header 2 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Header 2 from Miscellaneous Connectors.IntLib
+Replace Symbol from P8 TFCard in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with TFCard from TF_card.IntLib
+Replace Symbol from P9 Header 2 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Header 2 from Miscellaneous Connectors.IntLib
+Replace Symbol from P10 Header 4X2 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Header 4X2 from Miscellaneous Connectors.IntLib
+Replace Symbol from P11 Header 5 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Header 5 from Miscellaneous Connectors.IntLib
+Replace Symbol from P12 Header 4 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Header 4 from Miscellaneous Connectors.IntLib
+Replace Symbol from P13 Header 4 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Header 4 from Miscellaneous Connectors.IntLib
+Replace Symbol from P14 Header 2 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Header 2 from Miscellaneous Connectors.IntLib
+Replace Symbol from R1 Res-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Res-0402 from 0402-Res.IntLib
+Replace Symbol from R2 Res-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Res-0402 from 0402-Res.IntLib
+Replace Symbol from R3 Res-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Res-0402 from 0402-Res.IntLib
+Replace Symbol from R4 Res-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Res-0402 from 0402-Res.IntLib
+Replace Symbol from R5 Res-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Res-0402 from 0402-Res.IntLib
+Replace Symbol from R6 Res-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Res-0402 from 0402-Res.IntLib
+Replace Symbol from R7 Res-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Res-0402 from 0402-Res.IntLib
+Replace Symbol from R8 Res-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Res-0402 from 0402-Res.IntLib
+Replace Symbol from R9 Res-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Res-0402 from 0402-Res.IntLib
+Replace Symbol from R10 Res-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Res-0402 from 0402-Res.IntLib
+Replace Symbol from R11 Res-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Res-0402 from 0402-Res.IntLib
+Replace Symbol from R12 Res-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Res-0402 from 0402-Res.IntLib
+Replace Symbol from R13 Res-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Res-0402 from 0402-Res.IntLib
+Replace Symbol from R14 Res-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Res-0402 from 0402-Res.IntLib
+Replace Symbol from R15 Res-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Res-0402 from 0402-Res.IntLib
+Replace Symbol from R16 Res-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Res-0402 from 0402-Res.IntLib
+Replace Symbol from R17 Res-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Res-0402 from 0402-Res.IntLib
+Replace Symbol from R18 Res-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Res-0402 from 0402-Res.IntLib
+Replace Symbol from R19 Res-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Res-0402 from 0402-Res.IntLib
+Replace Symbol from R20 Res-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Res-0402 from 0402-Res.IntLib
+Replace Symbol from R21 Res-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Res-0402 from 0402-Res.IntLib
+Replace Symbol from R22 Res-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Res-0402 from 0402-Res.IntLib
+Replace Symbol from R23 Res-0402 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with Res-0402 from 0402-Res.IntLib
+Replace Symbol from U1 AMS1117 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with AMS1117 from AMS1117.IntLib
+Replace Symbol from U2 STM32F103C8T6 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with STM32F103C8T6 from STMicroelectronics STM32 F1.IntLib
+Replace Symbol from U2 STM32F103C8T6 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with STM32F103C8T6 from STMicroelectronics STM32 F1.IntLib
+Replace Symbol from U3 CH340G in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with CH340G from CH340G.IntLib
+Replace Symbol from U4 miniUSB in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with miniUSB from miniUSB.IntLib
+Replace Symbol from U5 LM27313 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with LM27313 from LM27313.IntLib
+Replace Symbol from U6 MPU6050 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with MPU6050 from MPU6050.IntLib
+Replace Symbol from U7 HMC5883L in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with HMC5883L from HMC5883L.IntLib
+Replace Symbol from U8 MS5611 in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with MS5611 from MS5611.IntLib
+Replace Symbol from X1 49SMD in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with 49SMD from 49SMD-8M.IntLib
+Replace Symbol from X2 49SMD in E:\SuperSanity\HW\Project\Sanity0\Sanity0.SchDoc with 49SMD from 49SMD-8M.IntLib

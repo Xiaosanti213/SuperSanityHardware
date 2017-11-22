@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=SD_NSS Pin=P8-1
+Removed Pin From Net: NetName=SD_MOSI Pin=P8-2
+Removed Pin From Net: NetName=3V3 Pin=P8-3
+Removed Pin From Net: NetName=SD_CLK Pin=P8-6
+Removed Pin From Net: NetName=GND Pin=P8-7
+Removed Pin From Net: NetName=SD_MISO Pin=P8-8
+Added Pin To Net: NetName=SD_NSS Pin=P8-2
+Added Pin To Net: NetName=SD_MOSI Pin=P8-3
+Added Pin To Net: NetName=3V3 Pin=P8-4
+Added Pin To Net: NetName=SD_CLK Pin=P8-5
+Added Pin To Net: NetName=GND Pin=P8-6
+Added Pin To Net: NetName=SD_MISO Pin=P8-7
+Added Room: Name=Sanity0

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=MPU_SDA Pin=U6-23
+Removed Pin From Net: NetName=MPU_SCL Pin=U6-24
+Change Component Comment : Designator=R22 Old Comment=Res-0402 New Comment=10K
+Change Component Comment : Designator=R23 Old Comment=Res-0402 New Comment=10K
+Change Component Comment : Designator=P8 Old Comment=SOFNG_TFCard New Comment=TFCard
+Added Pin To Net: NetName=MPU_SCL Pin=U6-23
+Added Pin To Net: NetName=MPU_SDA Pin=U6-24
+Added Member To Class: ClassName=Sanity0 Member=Component P8 TFCard

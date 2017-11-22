@@ -1,0 +1,51 @@
+Added Component: Designator=U1(STM-LQFP48_N)
+Added Component: Designator=U5(STM-LQFP48_L)
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=CPU_RX Pin=U1-9
+Added Pin To Net: NetName=GND Pin=U1-23
+Added Pin To Net: NetName=CPU_RX Pin=U1-24
+Added Pin To Net: NetName=GND Pin=U1-35
+Added Pin To Net: NetName=CPU_RX Pin=U1-36
+Added Pin To Net: NetName=GND Pin=U1-47
+Added Pin To Net: NetName=CPU_RX Pin=U1-48
+Added Pin To Net: NetName=PC13 Pin=U5-2
+Added Pin To Net: NetName=PC14 Pin=U5-3
+Added Pin To Net: NetName=PC15 Pin=U5-4
+Added Pin To Net: NetName=NetC6_1 Pin=U5-5
+Added Pin To Net: NetName=NetC7_1 Pin=U5-6
+Added Pin To Net: NetName=NRST Pin=U5-7
+Added Pin To Net: NetName=RA Pin=U5-10
+Added Pin To Net: NetName=LE Pin=U5-11
+Added Pin To Net: NetName=RT Pin=U5-12
+Added Pin To Net: NetName=RA Pin=U5-13
+Added Pin To Net: NetName=RC_NSS Pin=U5-14
+Added Pin To Net: NetName=RC_CLK Pin=U5-15
+Added Pin To Net: NetName=RC_MISO Pin=U5-16
+Added Pin To Net: NetName=RC_MOSI Pin=U5-17
+Added Pin To Net: NetName=RC_CE Pin=U5-18
+Added Pin To Net: NetName=RC_INT Pin=U5-19
+Added Pin To Net: NetName=BOOT1 Pin=U5-20
+Added Pin To Net: NetName=PB10 Pin=U5-21
+Added Pin To Net: NetName=PB11 Pin=U5-22
+Added Pin To Net: NetName=PB12 Pin=U5-25
+Added Pin To Net: NetName=PB13 Pin=U5-26
+Added Pin To Net: NetName=PB14 Pin=U5-27
+Added Pin To Net: NetName=PB15 Pin=U5-28
+Added Pin To Net: NetName=PA8 Pin=U5-29
+Added Pin To Net: NetName=CPU_RX Pin=U5-30
+Added Pin To Net: NetName=CPU_RX Pin=U5-31
+Added Pin To Net: NetName=PA11 Pin=U5-32
+Added Pin To Net: NetName=PA12 Pin=U5-33
+Added Pin To Net: NetName=JTMS Pin=U5-34
+Added Pin To Net: NetName=JTCK Pin=U5-37
+Added Pin To Net: NetName=JTDI Pin=U5-38
+Added Pin To Net: NetName=JTDO Pin=U5-39
+Added Pin To Net: NetName=JNRST Pin=U5-40
+Added Pin To Net: NetName=PB6 Pin=U5-42
+Added Pin To Net: NetName=PB7 Pin=U5-43
+Added Pin To Net: NetName=BOOT0 Pin=U5-44
+Added Pin To Net: NetName=PB8 Pin=U5-45
+Added Pin To Net: NetName=PB9 Pin=U5-46
+Added Member To Class: ClassName=Tele Member=Component U1 STM32F103CBT6
+Added Member To Class: ClassName=Tele Member=Component U5 STM32F103CBT6
+Added Room: Name=Tele

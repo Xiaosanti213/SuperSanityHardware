@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=LE Pin=P4-2
+Removed Pin From Net: NetName=LR Pin=P4-5
+Removed Pin From Net: NetName=RT Pin=P5-2
+Removed Pin From Net: NetName=RA Pin=P5-5
+Added Pin To Net: NetName=RT Pin=P4-2
+Added Pin To Net: NetName=RA Pin=P4-5
+Added Pin To Net: NetName=LE Pin=P5-2
+Added Pin To Net: NetName=LR Pin=P5-5
+Added Room: Name=Tele

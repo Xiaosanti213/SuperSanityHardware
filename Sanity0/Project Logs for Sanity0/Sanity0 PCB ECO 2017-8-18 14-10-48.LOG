@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=BARO_SDA Pin=R21-1
+Removed Pin From Net: NetName=BARO_SDA Pin=U2-22
+Removed Pin From Net: NetName=BARO_SDA Pin=U8-7
+Added Pin To Net: NetName=BARO_SDA Pin=U8-6
+Change Net Name : Old Net Name=BARO_SDA New Net Name=3V3
+Added Pin To Net: NetName=BARO_SDA Pin=R21-1
+Added Pin To Net: NetName=BARO_SDA Pin=U2-22
+Added Pin To Net: NetName=BARO_SDA Pin=U8-7
+Added Net: Name=BARO_SDA

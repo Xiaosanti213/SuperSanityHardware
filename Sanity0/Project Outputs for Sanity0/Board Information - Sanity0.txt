@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : E:\SuperSanity\HW\Project\Sanity0\Sanity0.PcbDoc
+Date         : 2017/11/22
+Time         : 9:15:37
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 235
+    Connections routed, 235
+    Connections remaining, 0
+count : 4

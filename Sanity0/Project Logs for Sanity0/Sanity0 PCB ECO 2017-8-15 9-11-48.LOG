@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=3.7V-LIPO2S Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Member From Class: ClassName=Sanity0 Member=C8

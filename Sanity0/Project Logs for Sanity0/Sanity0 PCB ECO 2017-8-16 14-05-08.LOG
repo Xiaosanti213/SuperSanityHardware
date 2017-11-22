@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=HMC_SDA Pin=U6-6
+Added Pin To Net: NetName=HMC_SCL Pin=U6-7
+Added Pin To Net: NetName=HMC_SCL Pin=U7-1
+Added Pin To Net: NetName=HMC_SDA Pin=U7-16

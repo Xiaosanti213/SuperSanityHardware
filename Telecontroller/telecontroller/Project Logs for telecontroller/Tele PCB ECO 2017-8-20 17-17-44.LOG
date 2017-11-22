@@ -1,0 +1,4 @@
+Added Component: Designator=P1(ResetKeyC5382)
+Added Pin To Net: NetName=GND Pin=P1-0
+Added Pin To Net: NetName=NetC1_1 Pin=P1-1
+Added Member To Class: ClassName=Tele Member=Component P1 ResetKey

@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=3V3 Pin=R21-1
+Added Pin To Net: NetName=3V3 Pin=U2-22
+Added Pin To Net: NetName=3V3 Pin=U8-7
+Change Net Name : Old Net Name=3V3 New Net Name=BARO_SDA

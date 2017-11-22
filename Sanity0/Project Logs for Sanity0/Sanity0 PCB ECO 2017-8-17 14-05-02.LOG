@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=HMC_SDA Pin=U7-5
+Added Member To Class: ClassName=Sanity0 Member=Component U2 STM32F103C8T6

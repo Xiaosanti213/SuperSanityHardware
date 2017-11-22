@@ -1,0 +1,92 @@
+Change Component Designator: OldDesignator=C1 NewDesignator=C6
+Change Component Designator: OldDesignator=C2 NewDesignator=C7
+Change Component Designator: OldDesignator=C3 NewDesignator=C8
+Change Component Designator: OldDesignator=C4 NewDesignator=C9
+Change Component Designator: OldDesignator=C5 NewDesignator=C10
+Change Component Designator: OldDesignator=C6 NewDesignator=C11
+Change Component Designator: OldDesignator=C7 NewDesignator=C12
+Change Component Designator: OldDesignator=C8 NewDesignator=C13
+Change Component Designator: OldDesignator=C9 NewDesignator=C14
+Change Component Designator: OldDesignator=C10 NewDesignator=C15
+Change Component Designator: OldDesignator=C11 NewDesignator=C1
+Change Component Designator: OldDesignator=C12 NewDesignator=C2
+Change Component Designator: OldDesignator=C13 NewDesignator=C3
+Change Component Designator: OldDesignator=C14 NewDesignator=C4
+Change Component Designator: OldDesignator=C15 NewDesignator=C5
+Change Component Designator: OldDesignator=P1 NewDesignator=P6
+Change Component Designator: OldDesignator=P2 NewDesignator=P7
+Change Component Designator: OldDesignator=P3 NewDesignator=P8
+Change Component Designator: OldDesignator=P4 NewDesignator=P2
+Change Component Designator: OldDesignator=P5 NewDesignator=P4
+Change Component Designator: OldDesignator=P6 NewDesignator=P3
+Change Component Designator: OldDesignator=P7 NewDesignator=P5
+Change Component Designator: OldDesignator=P8 NewDesignator=P1
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Change Component Designator: OldDesignator=R8 NewDesignator=R2
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Change Component Designator: OldDesignator=U3 NewDesignator=U4
+Change Component Designator: OldDesignator=U4 NewDesignator=U1
+Added Component: Designator=U2(STM-LQFP48_L)
+Added Pin To Net: NetName=NRST Pin=P6-1
+Added Pin To Net: NetName=NRST Pin=R1-1
+Added Pin To Net: NetName=PC13 Pin=U2-2
+Added Pin To Net: NetName=PC14 Pin=U2-3
+Added Pin To Net: NetName=PC15 Pin=U2-4
+Added Pin To Net: NetName=NRST Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=CPU_RX Pin=U2-9
+Added Pin To Net: NetName=RA Pin=U2-10
+Added Pin To Net: NetName=LE Pin=U2-11
+Added Pin To Net: NetName=RT Pin=U2-12
+Added Pin To Net: NetName=RA Pin=U2-13
+Added Pin To Net: NetName=RC_NSS Pin=U2-14
+Added Pin To Net: NetName=RC_CLK Pin=U2-15
+Added Pin To Net: NetName=RC_MISO Pin=U2-16
+Added Pin To Net: NetName=RC_MOSI Pin=U2-17
+Added Pin To Net: NetName=RC_CE Pin=U2-18
+Added Pin To Net: NetName=RC_INT Pin=U2-19
+Added Pin To Net: NetName=BOOT1 Pin=U2-20
+Added Pin To Net: NetName=PB10 Pin=U2-21
+Added Pin To Net: NetName=PB11 Pin=U2-22
+Added Pin To Net: NetName=GND Pin=U2-23
+Added Pin To Net: NetName=CPU_RX Pin=U2-24
+Added Pin To Net: NetName=PB12 Pin=U2-25
+Added Pin To Net: NetName=PB13 Pin=U2-26
+Added Pin To Net: NetName=PB14 Pin=U2-27
+Added Pin To Net: NetName=PB15 Pin=U2-28
+Added Pin To Net: NetName=PA8 Pin=U2-29
+Added Pin To Net: NetName=CPU_RX Pin=U2-30
+Added Pin To Net: NetName=CPU_RX Pin=U2-31
+Added Pin To Net: NetName=PA11 Pin=U2-32
+Added Pin To Net: NetName=PA12 Pin=U2-33
+Added Pin To Net: NetName=JTMS Pin=U2-34
+Added Pin To Net: NetName=GND Pin=U2-35
+Added Pin To Net: NetName=CPU_RX Pin=U2-36
+Added Pin To Net: NetName=JTCK Pin=U2-37
+Added Pin To Net: NetName=JTDI Pin=U2-38
+Added Pin To Net: NetName=JTDO Pin=U2-39
+Added Pin To Net: NetName=JNRST Pin=U2-40
+Added Pin To Net: NetName=PB6 Pin=U2-42
+Added Pin To Net: NetName=PB7 Pin=U2-43
+Added Pin To Net: NetName=BOOT0 Pin=U2-44
+Added Pin To Net: NetName=PB8 Pin=U2-45
+Added Pin To Net: NetName=PB9 Pin=U2-46
+Added Pin To Net: NetName=GND Pin=U2-47
+Added Pin To Net: NetName=CPU_RX Pin=U2-48
+Change Net Name : Old Net Name=NetC9_1 New Net Name=NetC14_1
+Change Net Name : Old Net Name=NetC10_1 New Net Name=NetC15_1
+Change Net Name : Old Net Name=NetP2_11 New Net Name=NetP7_11
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_1 Pin=U2-5
+Added Pin To Net: NetName=NetC11_1 Pin=X1-0
+Added Net: Name=NetC11_1
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_1 Pin=U2-6
+Added Pin To Net: NetName=NetC12_1 Pin=X1-1
+Added Net: Name=NetC12_1
+Added Member To Class: ClassName=Tele Member=Component U4 miniUSB

@@ -1,0 +1,8 @@
+Added Component: Designator=P8(TF_card)
+Added Pin To Net: NetName=SD_NSS Pin=P8-1
+Added Pin To Net: NetName=SD_MOSI Pin=P8-2
+Added Pin To Net: NetName=3V3 Pin=P8-3
+Added Pin To Net: NetName=SD_CLK Pin=P8-6
+Added Pin To Net: NetName=GND Pin=P8-7
+Added Pin To Net: NetName=SD_MISO Pin=P8-8
+Added Member To Class: ClassName=Sanity0 Member=Component P8 TFCard

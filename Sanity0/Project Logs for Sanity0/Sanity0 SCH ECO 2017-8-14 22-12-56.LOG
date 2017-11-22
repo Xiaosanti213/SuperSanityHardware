@@ -1,0 +1,3 @@
+Remove Pin=U6-12 From Net=MPU_INT
+Remove Pin=U6-23 From Net=MPU_SCL
+Remove Pin=U6-24 From Net=MPU_SDA

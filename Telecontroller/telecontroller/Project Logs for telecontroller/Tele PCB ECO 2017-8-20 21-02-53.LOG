@@ -1,0 +1,4 @@
+Added Component: Designator=C16(LC-0402)
+Added Pin To Net: NetName=GND Pin=C16-0
+Added Pin To Net: NetName=3V3 Pin=C16-1
+Added Member To Class: ClassName=Tele Member=Component C16 104

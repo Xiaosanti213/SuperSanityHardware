@@ -1,0 +1,5 @@
+Change Component Comment: Designator=R22 Old Comment=10K New Comment=Res-0402
+Change Component Comment: Designator=R23 Old Comment=10K New Comment=Res-0402
+Change Component Comment: Designator=P8 Old Comment=TFCard New Comment=SOFNG_TFCard
+Change Pin Designator/Name:  Old Designator=U6-23 Old Name=SCL New Designator =SDA New Name=24
+Change Pin Designator/Name:  Old Designator=U6-24 Old Name=SDA New Designator =SCL New Name=23

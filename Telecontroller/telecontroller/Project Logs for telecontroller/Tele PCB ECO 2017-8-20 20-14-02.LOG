@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=RA Pin=U2-13
+Added Pin To Net: NetName=LR Pin=U2-13
+Added Room: Name=Tele

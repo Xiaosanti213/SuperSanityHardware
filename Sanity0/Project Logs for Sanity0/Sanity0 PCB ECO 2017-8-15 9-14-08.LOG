@@ -1,0 +1,4 @@
+Added Component: Designator=C8(Cap-0603)
+Added Pin To Net: NetName=3.7V-LIPO2S Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Member To Class: ClassName=Sanity0 Member=Component C8 2.2uF
